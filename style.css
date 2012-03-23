@@ -4,7 +4,7 @@ body {
 	text-align:left;
 	color:#666;
 	font-size:14px;
-	font-family:georgia, 'time new romans', serif;
+	font-family:monospace, prestige;
 	margin:0 auto;
 	padding:0;
 }
@@ -13,7 +13,7 @@ a {
 	color: #ffffff;
 	padding: 0 5px;
 	text-decoration: none;
-	font-family: verdana, helvetica, arial, sans-serif;
+	
 	font-size: 16px;
 	letter-spacing: -1px;
 	color:#5fba3d;
@@ -31,7 +31,6 @@ a:visited {
 	color: #aaaaaa;
 	padding: 0 5px;
 	text-decoration: none;
-	font-family: verdana, helvetica, arial, sans-serif;
 	font-size: 16px;
 	letter-spacing: -1px;
 }
@@ -40,7 +39,6 @@ a:hover {
 	color: ffffff;
 	padding: 0 5px;
 	text-decoration: none;
-	font-family: verdana, helvetica, arial, sans-serif;
 	font-size: 16px;
 	letter-spacing: -1px;
 }
@@ -53,18 +51,15 @@ h1 {
 
 h2 {
 	font-size: 24px;
-	font-family: verdana, helvetica, arial, sans-serif;
 	color:#444444;
 	font-weight: 400;
 	padding: 0 0 10px;
 	color:#5fba3d;
-    font-family:monospace, prestige;
 }
 }
 
 h3 {
 	font-size:14px;
-	font-family:verdana, helvetica, arial, sans-serif;
 	letter-spacing:-1px;
 	color:#fff;
 	font-weight: 700;
@@ -77,7 +72,6 @@ p {
 	color:#fff;
 	font-size: 20px;
 	line-height: 38px;
-	font-family:monospace, prestige;
 	padding: 0 0 10px;
 	margin: 20px 0 10px 0;
 }
@@ -101,7 +95,6 @@ img {
 	border: 1px solid #000;
 	clear: both;
 	float: left;
-	font-family:monospace, prestige;
 	font-weight: bold;
 	font-size: 18px;
 	text-transform: uppercase;
@@ -153,14 +146,12 @@ img {
 }
 
 .box {
-	background: #111111;
 	
 	width: 13%;
 	float: left;
 	line-height: 22px;
 	margin: 0 1% 0 1%;
 	padding: 5px 1% 1% 1%;
-	color:#FFF;
 	
 	border-style:solid inset;
     border-width:6px;
@@ -170,7 +161,6 @@ img {
     font-family:monospace, prestige;
 }
 .box2 {
-	background: #111111;
 	
 	width: 6%;
 	float: left;
@@ -178,12 +168,11 @@ img {
 	margin: 0;
 	padding: 5px 1% 1% 1%;
 	
-		border-style:solid inset;
+	border-style:solid inset;
     border-width:6px;
     border-color:#ccd9d8;
     background-color:#080808;
     color:#5fba3d;
-    font-family:monospace, prestige;
 }
 
 .box p {
