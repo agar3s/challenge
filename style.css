@@ -10,13 +10,11 @@ body {
 }
 
 a {
-	color: #ffffff;
+	color: #8A2BE2;
 	padding: 0 5px;
-	text-decoration: none;
 	
 	font-size: 16px;
 	letter-spacing: -1px;
-	color:#5fba3d;
     text-decoration:underline;
 }
 li{
@@ -24,11 +22,11 @@ li{
 }
 
 .a{
-    background-color:#080808;
+    background-color:#DEB887;
 }
 
 a:visited {
-	color: #aaaaaa;
+	color: #B8860B;
 	padding: 0 5px;
 	text-decoration: none;
 	font-size: 16px;
@@ -69,7 +67,7 @@ h3 {
 }
 
 p {
-	color:#fff;
+	color:#F0F8FF;
 	font-size: 20px;
 	line-height: 38px;
 	padding: 0 0 10px;
@@ -176,14 +174,14 @@ img {
 }
 
 .box p {
-	color:#FFF;
+	
 	font-size: 16px;
 	line-height:24px;
 	padding: 0 0 10px;
 	margin: 20px 0 10px 0;
 }
 .box2 p {
-	color:#FFF;
+	
 	font-size: 16px;
 	line-height:24px;
 	padding: 0 0 10px;
