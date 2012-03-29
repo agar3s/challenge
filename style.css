@@ -151,10 +151,10 @@ img {
 	float: left;
 	line-height: 22px;
 	margin: 0 1% 0 1%;
-	padding: 5px 1% 1% 1%;
+	padding: 5px 1% 10px 1%;
 	
 	border-style:solid inset;
-    border-width:6px;
+    border-width:2px;
     border-color:#ccd9d8;
     background-color:#080808;
     color:#5fba3d;
@@ -166,10 +166,10 @@ img {
 	float: left;
 	line-height: 22px;
 	margin: 0;
-	padding: 5px 1% 1% 1%;
+	padding: 5px 1% 10px 1%;
 	
 	border-style:solid inset;
-    border-width:6px;
+    border-width:2px;
     border-color:#ccd9d8;
     background-color:#080808;
     color:#5fba3d;
@@ -189,3 +189,29 @@ img {
 	padding: 0 0 10px;
 	margin: 20px 0 10px 0;
 }
+
+#footer {
+	float:left; 
+	position:fixed;
+	margin-left:50px;
+	margin-top:580px;
+	
+	width:1000px;
+}
+
+#footer img{
+	
+	-moz-box-shadow: 2px 2px 2px #2f9a1d;
+	-webkit-box-shadow: 2px 2px 2px #2f9a1d;
+	box-shadow: 2px 2px 2px #2f9a1d;
+	
+}
+#footer h2{
+	margin:0px;
+	margin-bottom:5px;
+	padding:0px;
+}
+#footer a{
+	text-decoration:None;
+}
+
